@@ -1,0 +1,4 @@
+Name,age,Job
+Ixtiyor,19,Manager
+Aziz,20,Shef
+Jamshid,22,Officer
